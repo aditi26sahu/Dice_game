@@ -1,0 +1,51 @@
+body,*{
+    margin: 0px;
+    padding:0px;
+    background-color: rgb(227, 137, 69);
+}
+.box{
+    display: flex;
+    width:672px;
+    /* height:300px; */
+    /* border: 2px solid red; */
+    margin:auto
+}
+img{
+    width: 252px;
+    height: 252px;
+    border-radius: 30px;
+    margin: 79px 44px;
+    
+    
+}
+img:hover{
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+}
+.p1{
+    font-weight: bold;
+    font-weight: bold;
+    margin: -66px 130px;
+    font-size: 22px;
+    border-radius: 8px;
+    width: 100px;
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Quintessential', cursive;
+}
+.p1:hover{
+    cursor: pointer;
+    background-color: beige;
+    
+}
+
+ #head{
+    margin-top: 10px;
+    text-decoration: underline;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Quintessential', cursive;
+
+} 
